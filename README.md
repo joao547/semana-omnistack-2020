@@ -2,6 +2,6 @@
 
 ## Back-end
 
-# ``npm start`
+# `npm start`
 
-Roda a aplicação no endereco http://localhost:[http://localhost:3333]
+Roda a aplicação no endereco http://localhost:3333
