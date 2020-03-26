@@ -1,5 +1,7 @@
 # semana-omnistack-2020
 
-** Back-end**
+## Back-end
 
-Para rodar o back-end precisa apenas usar o comando npm start.
+# ``npm start`
+
+Roda a aplicação no endereco http://localhost:[http://localhost:3333]
